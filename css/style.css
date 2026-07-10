@@ -188,7 +188,11 @@ ul { list-style: none; }
   position: relative;
   flex-shrink: 0;
   background: var(--bg);
+<<<<<<< HEAD
   padding: 32px 20px 36px;
+=======
+  padding: 56px 20px 70px;
+>>>>>>> 8382c484c7ce45c2d8917135a8f85c22f57417d0
 }
 
 .hero-title {
@@ -197,7 +201,10 @@ ul { list-style: none; }
   text-align: center;
   max-width: 900px;
   margin: 0 auto;
+<<<<<<< HEAD
   transform: translateY(-58px);
+=======
+>>>>>>> 8382c484c7ce45c2d8917135a8f85c22f57417d0
 }
 
 .shard-grid {
@@ -525,7 +532,10 @@ ul { list-style: none; }
   .scroll-progress { display: none; }
   .stats-bar { grid-template-columns: repeat(2, 1fr); gap: 24px 0; padding: 30px 24px; }
   .hero-bottom { padding: 40px 20px 50px; }
+<<<<<<< HEAD
   .hero-title { transform: none; }
+=======
+>>>>>>> 8382c484c7ce45c2d8917135a8f85c22f57417d0
   .scroll-indicator { position: static; transform: none; margin-top: 30px; display: flex; justify-content: center; }
 }
 
